@@ -1,0 +1,71 @@
+#formul {  
+    padding: 20px 0px 0px 30px;   /* margen con valores: arriba - derecha - abajo - izquierda */ 
+    font-family:verdana,arial; 
+    font-size:9pt; 
+}  
+
+.campos {  
+    font-family:verdana,arial;     /* tipo de letra */  
+    width: 500px;                 /* anchura de campos de formulario */  
+    font-size:8pt;                /* tamaño de la letra*/   
+    color:#008000;                 /* color del texto */   
+    border: 1px dotted red;        /* color del borde puede ser solid ó dotted */   
+    background-color:#FFFF00;    /* color del fondo */   
+}  
+
+.boton{ 
+    font-size:12px; 
+    font-family:Verdana,Helvetica; 
+    font-weight:bold; 
+    color:#0000FF; 
+    background:#A4C1FF; 
+    border:0px; 
+    width:120px; 
+    height:25px; 
+} 
+
+
+input.campos1 {
+    margin-left: 2px;
+        border-color: blue;
+    border-width: 4px;
+}
+
+
+input.campos3 {
+    margin-left: 92px;
+        border-color: blue;
+    border-width: 4px;
+}
+
+input.campos2 {
+        border-color: blue;
+    border-width: 4px;
+        margin-left: 88px;
+}
+
+
+input.campos4 {
+    margin-left: 84px;
+        border-color: blue;
+    border-width: 4px;
+}
+
+input.campos5 {
+    margin-left: 80px;
+        border-color: blue;
+    border-width: 4px;
+}
+
+input.campos6{
+    margin-left: 60px;
+        border-color: blue;
+    border-width: 4px;
+}
+
+input.campos7{
+    margin-left: 82px;
+        border-color: blue;
+    border-width: 4px;
+}
+
